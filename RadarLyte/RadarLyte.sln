@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadarLyte.NationalWeatherService", "RadarLyte.NationalWeatherService\RadarLyte.NationalWeatherService.csproj", "{7E230FB6-2994-4DB1-B845-7AC819F13FEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadarLyte.Web", "RadarLyte.Web\RadarLyte.Web.csproj", "{D7E43A4A-79BE-4844-BA44-67A1D356094E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{967F25A9-271E-40F9-8563-78A9CA593AF7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{849A76C1-80FF-4D10-87E6-D47A3B487F50}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{097BA9D9-B4C6-42F1-8E27-450BAB307999}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadarLyte.Extensions", "RadarLyte.Extensions\RadarLyte.Extensions.csproj", "{F50DDEC0-D81D-4806-88E0-29747C7353B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E230FB6-2994-4DB1-B845-7AC819F13FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E230FB6-2994-4DB1-B845-7AC819F13FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E230FB6-2994-4DB1-B845-7AC819F13FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E230FB6-2994-4DB1-B845-7AC819F13FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7E43A4A-79BE-4844-BA44-67A1D356094E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7E43A4A-79BE-4844-BA44-67A1D356094E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7E43A4A-79BE-4844-BA44-67A1D356094E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7E43A4A-79BE-4844-BA44-67A1D356094E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F50DDEC0-D81D-4806-88E0-29747C7353B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F50DDEC0-D81D-4806-88E0-29747C7353B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F50DDEC0-D81D-4806-88E0-29747C7353B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F50DDEC0-D81D-4806-88E0-29747C7353B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7E230FB6-2994-4DB1-B845-7AC819F13FEF} = {097BA9D9-B4C6-42F1-8E27-450BAB307999}
+		{D7E43A4A-79BE-4844-BA44-67A1D356094E} = {967F25A9-271E-40F9-8563-78A9CA593AF7}
+		{F50DDEC0-D81D-4806-88E0-29747C7353B7} = {849A76C1-80FF-4D10-87E6-D47A3B487F50}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D06F360-918D-4D4C-8CF6-458C0B6BEE65}
+	EndGlobalSection
+EndGlobal

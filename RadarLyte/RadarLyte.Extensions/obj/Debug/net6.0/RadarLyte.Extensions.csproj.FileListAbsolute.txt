@@ -1,0 +1,12 @@
+C:\Code\radarlyte\RadarLyte\RadarLyte.Extensions\bin\Debug\net6.0\RadarLyte.Extensions.deps.json
+C:\Code\radarlyte\RadarLyte\RadarLyte.Extensions\bin\Debug\net6.0\RadarLyte.Extensions.dll
+C:\Code\radarlyte\RadarLyte\RadarLyte.Extensions\bin\Debug\net6.0\RadarLyte.Extensions.pdb
+C:\Code\radarlyte\RadarLyte\RadarLyte.Extensions\obj\Debug\net6.0\RadarLyte.Extensions.csproj.AssemblyReference.cache
+C:\Code\radarlyte\RadarLyte\RadarLyte.Extensions\obj\Debug\net6.0\RadarLyte.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\radarlyte\RadarLyte\RadarLyte.Extensions\obj\Debug\net6.0\RadarLyte.Extensions.AssemblyInfoInputs.cache
+C:\Code\radarlyte\RadarLyte\RadarLyte.Extensions\obj\Debug\net6.0\RadarLyte.Extensions.AssemblyInfo.cs
+C:\Code\radarlyte\RadarLyte\RadarLyte.Extensions\obj\Debug\net6.0\RadarLyte.Extensions.csproj.CoreCompileInputs.cache
+C:\Code\radarlyte\RadarLyte\RadarLyte.Extensions\obj\Debug\net6.0\RadarLyte.Extensions.dll
+C:\Code\radarlyte\RadarLyte\RadarLyte.Extensions\obj\Debug\net6.0\refint\RadarLyte.Extensions.dll
+C:\Code\radarlyte\RadarLyte\RadarLyte.Extensions\obj\Debug\net6.0\RadarLyte.Extensions.pdb
+C:\Code\radarlyte\RadarLyte\RadarLyte.Extensions\obj\Debug\net6.0\ref\RadarLyte.Extensions.dll

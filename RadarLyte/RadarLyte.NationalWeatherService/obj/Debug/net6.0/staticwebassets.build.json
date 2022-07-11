@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QWPvFknyR0uCQpvwWFzUXUl/2kzoUAGMwAyFDdNurGo=",
+  "Source": "RadarLyte.NationalWeatherService",
+  "BasePath": "_content/RadarLyte.NationalWeatherService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

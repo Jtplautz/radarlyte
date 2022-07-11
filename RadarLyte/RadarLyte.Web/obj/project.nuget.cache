@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "FwY+JRa36lpivqd9Fn2VzjZ7zholFkvMiJbSVaKDL8UUUsTKkllQhGHnrvk/Kfcwve/t+33qRkILpj/PMmeRsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\radarlyte\\RadarLyte\\RadarLyte.Web\\RadarLyte.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jtpla\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\6.0.6\\microsoft.aspnetcore.spaservices.extensions.6.0.6.nupkg.sha512",
+    "C:\\Users\\jtpla\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\jtpla\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\6.0.0\\microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
+    "C:\\Users\\jtpla\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "C:\\Users\\jtpla\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\jtpla\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
