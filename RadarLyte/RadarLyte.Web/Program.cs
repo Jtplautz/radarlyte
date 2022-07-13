@@ -1,9 +1,12 @@
 using RadarLyte.Extensions;
+using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 //builder.Services.AddRazorPages();
-
+builder.Host.UseSerilog((ctx, lc) => lc
+        .ReadFrom.Configuration(ctx.Configuration)
+        .WriteTo.Seq(builder.Configuration.GetConnectionString("Seq")));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

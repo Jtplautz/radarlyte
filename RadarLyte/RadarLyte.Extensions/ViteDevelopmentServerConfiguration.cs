@@ -114,7 +114,7 @@ public static class ViteDevelopmentServerConfiguration {
             var processInfo = new ProcessStartInfo
             {
                 FileName = isWindows ? "cmd" : "yarn",
-                Arguments = $"{(isWindows ? "/c yarn " : "")}run host",
+                Arguments = $"{(isWindows ? "/c yarn " : "")}run dev",
                 WorkingDirectory = spa.Options.SourcePath,
                 RedirectStandardError = true,
                 RedirectStandardInput = true,

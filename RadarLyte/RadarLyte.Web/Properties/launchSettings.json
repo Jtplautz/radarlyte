@@ -3,8 +3,8 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iis": {
-      "applicationUrl": "https://radarlyte.web:44301",
-      "sslPort": 0
+      "applicationUrl": "https://radarlyte.web:5001",
+      "sslPort": 44301
     },
     "iisExpress": {
       "applicationUrl": "http://localhost:52322",
@@ -23,13 +23,6 @@
     },
     "IIS Express": {
       "commandName": "IISExpress",
-      "launchBrowser": true,
-      "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
-      }
-    },
-    "IIS": {
-      "commandName": "IIS",
       "launchBrowser": true,
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"

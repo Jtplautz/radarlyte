@@ -33,3 +33,15 @@ C:\Code\radarlyte\RadarLyte\RadarLyte.Web\obj\Debug\net6.0\RadarLyte.Web.genrunt
 C:\Code\radarlyte\RadarLyte\RadarLyte.Web\obj\Debug\net6.0\ref\RadarLyte.Web.dll
 C:\Code\radarlyte\RadarLyte\RadarLyte.Web\bin\Debug\net6.0\web.config
 C:\Code\radarlyte\RadarLyte\RadarLyte.Web\bin\Debug\net6.0\Properties\launchSettings.json
+C:\Code\radarlyte\RadarLyte\RadarLyte.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Code\radarlyte\RadarLyte\RadarLyte.Web\bin\Debug\net6.0\Serilog.dll
+C:\Code\radarlyte\RadarLyte\RadarLyte.Web\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Code\radarlyte\RadarLyte\RadarLyte.Web\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Code\radarlyte\RadarLyte\RadarLyte.Web\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Code\radarlyte\RadarLyte\RadarLyte.Web\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Code\radarlyte\RadarLyte\RadarLyte.Web\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Code\radarlyte\RadarLyte\RadarLyte.Web\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Code\radarlyte\RadarLyte\RadarLyte.Web\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Code\radarlyte\RadarLyte\RadarLyte.Web\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Code\radarlyte\RadarLyte\RadarLyte.Web\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Code\radarlyte\RadarLyte\RadarLyte.Web\bin\Debug\net6.0\Serilog.Sinks.Seq.dll
