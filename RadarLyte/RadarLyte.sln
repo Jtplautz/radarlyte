@@ -17,7 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RadarLyte.Extensions", "Rad
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{4CAA0AE5-009D-4570-911B-969D521ADEDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadarLyte.Database", "RadarLyte.Database\RadarLyte.Database.csproj", "{128F8764-52F6-4E57-8A42-ED52F1A49E48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RadarLyte.Database", "RadarLyte.Database\RadarLyte.Database.csproj", "{128F8764-52F6-4E57-8A42-ED52F1A49E48}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Helpers", "Helpers", "{14FDD9B6-2FA7-46CB-BF08-9649F7C299D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadarLyte.Deploying", "RadarLyte.Deploying\RadarLyte.Deploying.csproj", "{13FBCEAA-07D3-449A-87AF-B0E7715F5CF8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +45,10 @@ Global
 		{128F8764-52F6-4E57-8A42-ED52F1A49E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{128F8764-52F6-4E57-8A42-ED52F1A49E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{128F8764-52F6-4E57-8A42-ED52F1A49E48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13FBCEAA-07D3-449A-87AF-B0E7715F5CF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13FBCEAA-07D3-449A-87AF-B0E7715F5CF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13FBCEAA-07D3-449A-87AF-B0E7715F5CF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13FBCEAA-07D3-449A-87AF-B0E7715F5CF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,6 +58,7 @@ Global
 		{D7E43A4A-79BE-4844-BA44-67A1D356094E} = {967F25A9-271E-40F9-8563-78A9CA593AF7}
 		{F50DDEC0-D81D-4806-88E0-29747C7353B7} = {849A76C1-80FF-4D10-87E6-D47A3B487F50}
 		{128F8764-52F6-4E57-8A42-ED52F1A49E48} = {4CAA0AE5-009D-4570-911B-969D521ADEDF}
+		{13FBCEAA-07D3-449A-87AF-B0E7715F5CF8} = {14FDD9B6-2FA7-46CB-BF08-9649F7C299D4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6D06F360-918D-4D4C-8CF6-458C0B6BEE65}

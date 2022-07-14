@@ -1,0 +1,14 @@
+C:\Code\radarlyte\RadarLyte\RadarLyte.Database\bin\Debug\net6.0\RadarLyte.Database.deps.json
+C:\Code\radarlyte\RadarLyte\RadarLyte.Database\bin\Debug\net6.0\RadarLyte.Database.runtimeconfig.json
+C:\Code\radarlyte\RadarLyte\RadarLyte.Database\bin\Debug\net6.0\RadarLyte.Database.dll
+C:\Code\radarlyte\RadarLyte\RadarLyte.Database\bin\Debug\net6.0\RadarLyte.Database.pdb
+C:\Code\radarlyte\RadarLyte\RadarLyte.Database\obj\Debug\net6.0\RadarLyte.Database.csproj.AssemblyReference.cache
+C:\Code\radarlyte\RadarLyte\RadarLyte.Database\obj\Debug\net6.0\RadarLyte.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\radarlyte\RadarLyte\RadarLyte.Database\obj\Debug\net6.0\RadarLyte.Database.AssemblyInfoInputs.cache
+C:\Code\radarlyte\RadarLyte\RadarLyte.Database\obj\Debug\net6.0\RadarLyte.Database.AssemblyInfo.cs
+C:\Code\radarlyte\RadarLyte\RadarLyte.Database\obj\Debug\net6.0\RadarLyte.Database.csproj.CoreCompileInputs.cache
+C:\Code\radarlyte\RadarLyte\RadarLyte.Database\obj\Debug\net6.0\RadarLyte.Database.dll
+C:\Code\radarlyte\RadarLyte\RadarLyte.Database\obj\Debug\net6.0\refint\RadarLyte.Database.dll
+C:\Code\radarlyte\RadarLyte\RadarLyte.Database\obj\Debug\net6.0\RadarLyte.Database.pdb
+C:\Code\radarlyte\RadarLyte\RadarLyte.Database\obj\Debug\net6.0\RadarLyte.Database.genruntimeconfig.cache
+C:\Code\radarlyte\RadarLyte\RadarLyte.Database\obj\Debug\net6.0\ref\RadarLyte.Database.dll
