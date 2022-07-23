@@ -17,6 +17,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\RadarLyte.Database\RadarLyte.Database.csproj" />
+    <ProjectReference Include="..\RadarLyte.Identity\RadarLyte.Identity.csproj" />
   </ItemGroup>
 
   <ItemGroup>

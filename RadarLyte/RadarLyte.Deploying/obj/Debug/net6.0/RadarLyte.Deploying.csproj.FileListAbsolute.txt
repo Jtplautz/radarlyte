@@ -16,3 +16,5 @@ C:\Code\radarlyte\RadarLyte\RadarLyte.Deploying\obj\Debug\net6.0\ref\RadarLyte.D
 C:\Code\radarlyte\RadarLyte\RadarLyte.Deploying\bin\Debug\net6.0\RadarLyte.Deploying.runtimeconfig.json
 C:\Code\radarlyte\RadarLyte\RadarLyte.Deploying\obj\Debug\net6.0\RadarLyte.Deploying.genruntimeconfig.cache
 C:\Code\radarlyte\RadarLyte\RadarLyte.Deploying\bin\Debug\net6.0\appsettings.json
+C:\Code\radarlyte\RadarLyte\RadarLyte.Deploying\bin\Debug\net6.0\RadarLyte.Identity.dll
+C:\Code\radarlyte\RadarLyte\RadarLyte.Deploying\bin\Debug\net6.0\RadarLyte.Identity.pdb
